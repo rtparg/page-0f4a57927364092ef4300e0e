@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-74b6d10ba6.smalldolphin.cn/sitemap.xml
